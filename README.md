@@ -24,7 +24,8 @@ The datasets used for this analysis were gotten from the Kaggle.com website.
 - Microsoft Excel - Data Cleaning
 - SQL Server - Data Analysis
 - Microsoft Word - Writing Reports
-
+- 
+  
 
   ### Data Cleaning and Preparation
   
